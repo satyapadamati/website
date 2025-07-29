@@ -108,15 +108,6 @@ Satyakiran Padamati
 
 📜 License
 MIT License – feel free to use, fork, and improve!
-
-
 ---
-
-2. Go to GitHub → your repo → **Add file → Create new file**
-3. Name it: `README.md`
-4. Paste the copied content into the editor
-5. Commit and you're done ✅
-
-Let me know if you'd like this as a downloadable `.md` file or want to add an architecture diagram.
 
 
